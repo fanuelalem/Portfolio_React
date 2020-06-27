@@ -6,12 +6,19 @@ function Learn() {
   return (
     <div className="learn-container">
 
-      <h1 className="text-center">hello</h1>
-      <p>
-        Lorem ipsum dolor sit amet, est ut enim consequat. Nostrum fastidii partiendo sed ne, no
-        mutat ludus aperiri mea, per in choro dolorem electram. Invidunt reprimique assueverit quo
-        ne, eruditi graecis pro ut. Usu ut diceret scaevola evertitur, appareat voluptatibus ad vel.
-      </p>
+      <h2 className="text-center">Learn more</h2>
+      <ul>
+<li>         <p> <strong> email : </strong> <a href="fanuelnalem@outlook.com"> fanuelnalem@outlook.com</a>  </p>
+</li>
+       <li>        <p> <strong> linkedIn :</strong> <a href="https://www.linkedin.com/in/fanuel-alem-12991b32/">https://www.linkedin.com/in/fanuel-alem-12991b32/</a> </p>
+</li> 
+<li>
+<p> <strong> Github :</strong> <a href="https://github.com/fanuelalem">https://github.com/fanuelalem</a> </p>
+
+</li>
+
+    
+      </ul>
     </div>
   );
 }

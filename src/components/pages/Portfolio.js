@@ -14,11 +14,12 @@ function Portfolio() {
             
 
             <h1 className="portfolio-title">Portfolio</h1>
+            <div className="cardname"> 
             <CardTwo/>
 
             <CardThree/>
             <CardOne/>
-
+            </div>
            </div>
         </div>
       </div>
